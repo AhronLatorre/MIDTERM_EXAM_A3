@@ -1,0 +1,6 @@
+@MDTERM_EXAM_A3_HostAddress = http://localhost:5283
+
+GET {{MDTERM_EXAM_A3_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
